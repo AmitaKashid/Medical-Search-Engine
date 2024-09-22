@@ -61,7 +61,7 @@ nltk.
 Dowload the repo or clone 
 
 ```markdown 
-git clone https://github.com/chizeni24/Medical-Search-Engine.git
+git clone https://github.com/AmitaKashid/Medical-Search-Engine.git
 ```
 The folder structure should be as:
 1. input
